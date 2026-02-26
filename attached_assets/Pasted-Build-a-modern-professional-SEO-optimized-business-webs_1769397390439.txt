@@ -1,0 +1,218 @@
+Build a modern, professional, SEO-optimized business website for a valve manufacturing and exporting company (China-based manufacturer).
+
+General Requirements
+
+Language: English
+
+Industry: Industrial Valves (all types), manufacturing & export
+
+Target audience: Global B2B buyers, distributors, EPC contractors
+
+Clean, fast, mobile-responsive, professional industrial design
+
+Use semantic HTML5, modern CSS, and clean JS
+
+Website must be easy to scale (add products/pages later)
+
+Pages Required
+
+Home
+
+Products (Product Listing + Product Detail Page)
+
+About Us
+
+Contact Us
+
+Privacy Policy
+
+Terms & Conditions
+
+Header (Sticky on All Pages)
+
+Sticky header (same across all pages)
+
+Company logo (left)
+
+Navigation menu:
+
+Home
+
+Products
+
+About Us
+
+Contact
+
+Display Email & Phone Number clearly in header (top bar or right side)
+
+CTA button: “Get a Quote”
+
+Footer (Same on All Pages)
+
+Company short description (manufacturer & exporter from China)
+
+Quick links (Home, Products, About, Contact, Privacy Policy)
+
+Contact details (email, phone, address)
+
+Copyright text
+
+Floating WhatsApp Button
+
+Floating WhatsApp chat button
+
+Visible on all pages
+
+Fixed bottom-right
+
+Opens WhatsApp chat with predefined inquiry message
+
+Home Page
+
+Hero section with:
+
+Headline focused on Valve Manufacturer & Exporter
+
+Sub-headline for quality, certifications, global supply
+
+CTA buttons: “View Products” & “Contact Us”
+
+Product categories section (Gate Valve, Ball Valve, Check Valve, etc.)
+
+Why Choose Us section (manufacturing, QC, certifications, export experience)
+
+Global export / industries served section
+
+Call-to-Action section for inquiries
+
+Products Page
+Product Listing Page:
+
+Grid or card layout
+
+Each product card includes:
+
+Product image
+
+Product name
+
+Short description
+
+“View Details” button
+
+Product Detail Page:
+
+Large product image gallery
+
+Product description (SEO-friendly)
+
+Technical specifications table
+
+Applications
+
+Standards & materials
+
+Inquiry CTA button
+
+Related Products Section
+
+Show 1, 2, 3 related products under each product
+
+Clickable product cards
+
+Scalability
+
+Structure products using JSON / reusable components
+
+Make it very easy to add new products later
+
+About Us Page
+
+Company introduction
+
+Manufacturer & exporter from China
+
+Factory capability
+
+Quality control
+
+Certifications
+
+Export markets
+
+Contact Page
+
+Contact form (Name, Email, Phone, Message)
+
+Company email & phone
+
+Address
+
+WhatsApp contact info
+
+Google Map embed (placeholder is fine)
+
+SEO REQUIREMENTS (VERY IMPORTANT)
+
+SEO-friendly URLs
+
+Meta title & meta description for every page
+
+Proper H1, H2, H3 structure
+
+Image alt tags (valve-related keywords)
+
+Schema markup for:
+
+Organization
+
+Product
+
+Contact
+
+Fast loading, optimized images
+
+Ready for Google Ads & SEO campaigns
+
+Future SEO & Marketing
+
+Structure content so it can be expanded later for:
+
+Blog
+
+Product SEO pages
+
+Google Ads landing pages
+
+Focus keywords:
+
+Industrial valves
+
+Valve manufacturer
+
+Valve supplier China
+
+Export valves
+
+Gate valve, ball valve, check valve, etc.
+
+Design Reference
+
+I will upload website screenshots
+
+Analyze the screenshots carefully
+
+Learn layout, sections, spacing, and content style from them
+
+Do NOT copy branding — only structure & layout inspiration
+
+Final Output
+
+Fully working website
+
+Clean, well-commented code
+
+Easy to maintain & extend
+
+Production-ready structure

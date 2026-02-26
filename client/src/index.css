@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Oswald:wght@400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  /* Industrial B2B Palette */
+  /* Primary: Deep Industrial Blue */
+  --primary: 215 50% 23%;
+  --primary-foreground: 210 40% 98%;
+
+  /* Secondary: Metallic Silver/Gray */
+  --secondary: 210 20% 94%;
+  --secondary-foreground: 215 50% 23%;
+
+  /* Accent: Safety Orange (for CTAs) */
+  --accent: 25 95% 53%;
+  --accent-foreground: 210 40% 98%;
+
+  /* Backgrounds */
+  --background: 0 0% 100%;
+  --foreground: 215 25% 15%;
+
+  --card: 0 0% 100%;
+  --card-foreground: 215 25% 15%;
+
+  --popover: 0 0% 100%;
+  --popover-foreground: 215 25% 15%;
+
+  --muted: 210 20% 96%;
+  --muted-foreground: 215 15% 45%;
+
+  --destructive: 0 84.2% 60.2%;
+  --destructive-foreground: 210 40% 98%;
+
+  --border: 214 32% 91%;
+  --input: 214 32% 91%;
+  --ring: 215 50% 23%;
+  
+  --radius: 0.25rem;
+}
+
+@layer base {
+  body {
+    @apply bg-background text-foreground antialiased selection:bg-primary/20;
+    font-family: 'Inter', sans-serif;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Oswald', sans-serif;
+    @apply tracking-wide uppercase font-semibold text-primary;
+  }
+}
+
+@layer utilities {
+  .text-shadow {
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+  }
+  
+  .glass-card {
+    @apply bg-white/90 backdrop-blur-sm border border-white/20 shadow-xl;
+  }
+}
